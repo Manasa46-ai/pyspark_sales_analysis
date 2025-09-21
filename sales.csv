@@ -1,0 +1,8 @@
+date,product,category,region,quantity,price
+2025-01-01,Laptop,Electronics,North,5,700
+2025-01-02,Headphones,Electronics,East,10,50
+2025-01-03,Shoes,Fashion,South,20,40
+2025-01-04,TV,Electronics,West,3,1200
+2025-01-05,Shirt,Fashion,North,15,25
+2025-01-06,Fridge,Home,East,2,1000
+2025-01-07,Sofa,Home,South,1,500
